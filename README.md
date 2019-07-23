@@ -6,7 +6,7 @@ But seriously, this just adds a spoofed follower count of 92037 followers to you
 
 (Also in the first screenshot, I was probably lying. Not even CLOSE to a Springtomize/MultiBoard/Calypso/IS10... whatever. This isn't even a test tweak)
 
-**NOTE**: Yes the name is sort of irrelevant to the tweak it actually does in question. But I still can't help but to overlty obsess with my own birthtown sometimes.. but I kind of a *sorta* promoting the city because it's just so damn good :/
+**NOTE**: Yes the name is sort of irrelevant to the tweak it actually does in question. But I still can't help but to overlty obsess with my own birthtown sometimes.. but I kind of am *sorta* promoting the city because it's just so damn good.. and yes, the "Lorax" tree from the video (also in The Lorax by Dr. Seuss) is dead, unfortunately, according to sources.. :/
 
 Video on La Jolla (the real city): https://www.youtube.com/watch?v=XSOrx0GzCzo
 
