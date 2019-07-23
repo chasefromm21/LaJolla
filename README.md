@@ -5,3 +5,4 @@ Because who doesn't want to be born as a developer who just so happens to be bor
 But seriously, this just adds a spoofed follower count of 92037 followers to your Mustor app follow stats in your Mustor profile in the Mustor app for iOS.
 
 Screenshot: ![alt] (screenshot_la_jolla_tweak.png)
+![alt] (screenshot_la_jolla_tweak_2.png)
