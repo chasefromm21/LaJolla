@@ -8,6 +8,8 @@ But seriously, this just adds a spoofed follower count of 92037 followers to you
 
 **NOTE**: Yes the name is sort of irrelevant to the tweak it actually does, in question.... but I still can't help but to overly obsess with my own birthtown sometimes.. but I am *sorta* promoting the city because it's just sooooo damn good to travel to IMO.. laid-back, beautiful, and yes, the "Lorax" tree from the video (also in The Lorax by Dr. Seuss) is dead, unfortunately, according to (various, and real - *and not fake*) news sources.. :/
 
+**NOTE 2**: I don't know why it has a Tweak.x file, and a Tweak.xm file. Those are included though for your convenience when compiling through either Theos, cygwin, or iOSOpenDev with Xcode oif you're using it on the Mac.
+
 Video on La Jolla (the real city): https://www.youtube.com/watch?v=XSOrx0GzCzo
 
 Screenshot: ![alt](screenshot_la_jolla_tweak.png)
