@@ -10,7 +10,7 @@ But seriously, this tweak just adds a spoofed follower count of 92,037 followers
 
 **NOTE 2**: I don't know why it has a Tweak.x file, and a Tweak.xm file. Those are included though for your convenience when compiling through either Theos, cygwin, or iOSOpenDev with Xcode if you're using it on the Mac.
 
-Video on La Jolla (the real city): https://www.youtube.com/watch?v=XSOrx0GzCzo
+Video on La Jolla (the real city) from Yellow Productions: https://www.youtube.com/watch?v=XSOrx0GzCzo
 
 Screenshot: ![alt](screenshot_la_jolla_tweak.png)
 Screenshot 2: ![alt](screenshot_la_jolla_tweak_2.png)
